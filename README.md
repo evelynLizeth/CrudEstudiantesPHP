@@ -17,7 +17,7 @@ Aplicación web desarrollada en PHP con PDO y patrón MVC. Para gestionar estudi
 ## Con Laragon (recomendado)
 1. Clona el repositorio en la carpeta `www` de Laragon:
 
-   git clone https://github.com/evelizeth/estudiantes_crud.git
+   git clone https://github.com/evelynLizeth/CrudEstudiantesPHP.git
 
 2. Ubica el proyecto en:
     C:\laragon\www\estudiantes_crud
@@ -26,7 +26,7 @@ Aplicación web desarrollada en PHP con PDO y patrón MVC. Para gestionar estudi
 4. Crea la base de datos llamada actualizacion y ejecuta el script script.sql incluido en el proyecto.
 4. Inicia Laragon con Start All para levantar Apache y MySQL/MariaDB.
 6. Accede al proyecto desde el navegador:
-    http://localhost/estudiantes_crud/
+    http://estudiantes_crud.test/index.php
  o usando el dominio amigable que genera Laragon:
-    http://estudiantes_crud.test/
+    http://estudiantes_crud.test/  
     
